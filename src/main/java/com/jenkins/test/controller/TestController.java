@@ -19,7 +19,7 @@ public class TestController {
      */
     @GetMapping("/test")
     public String test() {
-        return "jenkins部署111";
+        return "jenkins部署11122";
     }
 
 
